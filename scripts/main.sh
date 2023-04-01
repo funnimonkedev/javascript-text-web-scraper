@@ -1,2 +1,2 @@
-# run project as node file
+# run project as node file (assuming you have node.js installed, if you don't have it and use javascript, it is a must have for building applications, it's not like typescript, which is just a superset of javascript, node.js can be used as serverside and in cli type apps and does not only run in the browser, it also comes with npm a very nice package manaer that you will probably use a lot as you learn more about this world of programming).
 node app.js
